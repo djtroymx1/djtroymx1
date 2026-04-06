@@ -1,4 +1,4 @@
-# Hey, I'm Troy
+# Hey, I'm Troy Collier
 
 Solo developer at **Digital VisionWorks LLC**, based in Florida. I build web apps, SaaS products, and mobile apps using an AI-first workflow with Claude Code in VS Code. I ship code daily and have been averaging 900+ contributions so far in 2026.
 
