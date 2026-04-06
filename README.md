@@ -10,6 +10,8 @@ Solo developer at **Digital VisionWorks LLC**, based in Florida. I build web app
 
 **Dirt Bike Dialed** - A Flutter mobile app for motocross riders to track and dial in their suspension settings. Live on the App Store.
 
+**Be Nice Grace Wins** - Faith-based apparel and lifestyle brand, powered by a headless Shopify storefront. Live at [benicegracewins.com](https://benicegracewins.com).
+
 ## Tech Stack
 
 TypeScript, React, Next.js, Tailwind CSS, Supabase, Firebase, Flutter
