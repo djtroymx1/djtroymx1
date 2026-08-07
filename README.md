@@ -10,6 +10,8 @@ Solo developer at **Digital VisionWorks LLC**, based in Florida. I build web app
 
 **Dirt Bike Dialed** - A Flutter mobile app for motocross riders to track and dial in their suspension settings. Live on the App Store.
 
+**Dirt Bike Dialed - The Game** Started out as a web game, but currently building it for the App Store, Play Store, and Steam. This is going to be a really cool project that I'm excited to build using Unity 6 
+
 **Be Nice Grace Wins** - Faith-based apparel and lifestyle brand, powered by a headless Shopify storefront. Live at [benicegracewins.com](https://benicegracewins.com).
 
 ## Tech Stack
